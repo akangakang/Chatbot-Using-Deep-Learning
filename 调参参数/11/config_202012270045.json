@@ -1,0 +1,1 @@
+{"maxlen": 40, "diaglen": 20, "emb_size": 512, "rnn_hid_utt": 1024, "rnn_hid_ctx": 1024, "rnn_hid_dec": 1024, "n_layers": 3, "dropout": 0.7, "teach_force": 0.8, "batch_size": 64, "epochs": 10, "lr": 2e-07, "beta1": 0.9, "init_w": 0.05, "clip": 5.0}
